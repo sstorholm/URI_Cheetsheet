@@ -7,4 +7,4 @@ Works similar to `mailto:`
 
 `<a href="tel:+31123456789">Call us</a>`
 
-[RFC 3966](http://www.ietf.org/rfc/rfc3966.txt)
+Please read [RFC 3966](http://www.ietf.org/rfc/rfc3966.txt) for more information regarding advanced formatting. 
