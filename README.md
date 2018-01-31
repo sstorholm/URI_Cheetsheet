@@ -21,3 +21,11 @@ Works similar to `mailto:`
 `<a href="tel:+31123456789">Call us</a>`
 
 Please read [RFC 3966](http://www.ietf.org/rfc/rfc3966.txt) for more information regarding advanced formatting. 
+
+### Geolocation
+
+Also similar to `mailto:` but support is a lot rarer.
+
+`<a href="geo:37.786971,-122.399677;u=35">Wikimedia Headquarters</a>`
+
+[Wikipedia](https://en.wikipedia.org/wiki/Geo_URI_scheme) has a short but sweet article regarding `geo:` URIs. 
