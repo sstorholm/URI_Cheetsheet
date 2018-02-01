@@ -22,6 +22,15 @@ Works similar to `mailto:`
 
 Please read [RFC 3966](http://www.ietf.org/rfc/rfc3966.txt) for more information regarding advanced formatting. 
 
+### SIP/SIPS
+SIP and SIPS URIs direct the client to make a SIP connection to a specific URN, over ports 5060 and 5061 respectivly, and (possibly) ask for a connection to a specific phone number.
+
+`<a href="sip:1-999-123-4567@voip-provider.example.net">Call us</a>`
+
+`<a href="sips:1-999-123-4567@voip-provider.example.net">Call us</a>`
+
+[Wikipedia](https://en.wikipedia.org/wiki/SIP_URI_scheme) has a short article regarding `sip:` URIs. 
+
 ### Geolocation
 
 Also similar to `mailto:` but support is a lot rarer.
