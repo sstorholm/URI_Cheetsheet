@@ -38,3 +38,11 @@ Also similar to `mailto:` but support is a lot rarer.
 `<a href="geo:37.786971,-122.399677;u=35">Wikimedia Headquarters</a>`
 
 [Wikipedia](https://en.wikipedia.org/wiki/Geo_URI_scheme) has a short but sweet article regarding `geo:` URIs. 
+
+## Currency
+
+### Bitcoin
+
+Similar to `mailto:`, opens a supported client for sending bitcoint to a wallet, if such a client exists.
+
+`<a href="bitcoin:3QJmV3qfvAf3sRCW3qSinyC">Send me Bitcoin!</a>`
